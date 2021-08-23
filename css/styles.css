@@ -11067,3 +11067,7 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+h1.masthead-heading.text-uppercase.mb-0 {
+    color: black;
+    margin-bottom: 0.8rem !important;
+}
