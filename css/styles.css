@@ -11071,3 +11071,12 @@ h1.masthead-heading.text-uppercase.mb-0 {
     color: black;
     margin-bottom: 0.8rem !important;
 }
+
+.align-items-center {
+    align-items: center !important;
+    margin-top: 3rem;
+}
+
+
+
+
